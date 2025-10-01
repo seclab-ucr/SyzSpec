@@ -14,3 +14,7 @@
   year         = {2025},
 }
 ```
+
+## Build
+
+SyzSpec is based on KLEE, so please check the build instructions of KLEE.
